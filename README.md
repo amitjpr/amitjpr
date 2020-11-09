@@ -83,18 +83,13 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-<img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>
-<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
-<img src="https://img.icons8.com/cotton/64/000000/twitter.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-circled.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Github" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>][github]
+
+[<img align="left" alt="codeSTACKr | Twitter"  src="https://img.icons8.com/color/32/000000/twitter-circled.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/color/32/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" src="https://img.icons8.com/fluent/32/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Github" src="https://img.icons8.com/material-sharp/32/000000/github.png"/>][github]
 
 <br />
 
