@@ -26,8 +26,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to develop new things
 
 ---
+
 ### Primary Skill
+
 <img align="left" alt="Salesforce" src="https://img.icons8.com/color/96/000000/salesforce.png"/>
+
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -40,6 +47,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Angularjs" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
 <br />
 <br />
+<br />
 
 ### Programming Languages:
 
@@ -50,6 +58,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+<br />
 
 ### Database
 
@@ -58,6 +67,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+<br />
 
 ### Familiar with 
 
@@ -67,6 +77,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+<br />
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -81,7 +92,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Github" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>][github]
 
 <br />
-
+<br />
 ---
 
   :zap: Github Stats
