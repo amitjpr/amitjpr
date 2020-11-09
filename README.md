@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ### Programming Languages:
 
 <img align="left" alt="JAVA" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" />
-<img align="left" alt="Python" src="https://img.icons8.com/ios-glyphs/50/000000/python.png" />
+<img align="left" alt="Python" src="https://img.icons8.com/color/50/000000/python.png"/>
 <img align="left" alt="C" src="https://img.icons8.com/color/50/000000/c-programming.png" />
 <img align="left" alt="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 
@@ -82,6 +82,14 @@ Here are some ideas to get you started:
 ---
 
 ### Connect with me:
+
+<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+<img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+<img src="https://img.icons8.com/cotton/64/000000/twitter.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
