@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 ### Front End:
 
@@ -45,7 +44,6 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Bootstrap" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
 <img align="left" alt="Angularjs" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
-<br />
 <br />
 <br />
 
@@ -58,7 +56,6 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<br />
 
 ### Database
 
@@ -67,7 +64,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<br />
+
 
 ### Familiar with 
 
@@ -77,7 +74,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<br />
+
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -92,7 +89,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Github" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>][github]
 
 <br />
-<br />
+
 ---
 
   :zap: Github Stats
