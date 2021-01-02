@@ -19,10 +19,10 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=amitjpr" alt="amitjpr" /> 
 </p>
 
-### I'm a Developer and an Engineer!
+### I'm a Salesforce Developer and an Engineer!
 
 - 🌱 I’m currently learning everything 😎
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to develop new things
 
 ---
