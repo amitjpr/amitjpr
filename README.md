@@ -84,11 +84,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...  
 
 
-### Connect with me:
-
-
-
-
 [<img align="left" alt="codeSTACKr | Twitter"  src="https://img.icons8.com/color/32/000000/twitter-circled.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/color/32/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" src="https://img.icons8.com/fluent/32/000000/instagram-new.png" />][instagram]
