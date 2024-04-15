@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 ### I'm a Salesforce Developer & Consultant and an Engineer!
 
 - 🌱 I’m currently learning everything 😎
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to develop new things
+- 😄 Pronouns: he/him/his
 
 ---
 
